@@ -1,0 +1,59 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\erago\\Desktop\\blefun-androidthings-master\\blefun-androidthings-master\\BLE_Example-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\erago\\Desktop\\blefun-androidthings-master\\blefun-androidthings-master\\BLE_Example-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,16,19",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "488,571,643",
+                        "endLines": "15,18,32",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "566,638,1269"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\erago\\Desktop\\blefun-androidthings-master\\blefun-androidthings-master\\BLE_Example-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "9,6,-1,-1,-1",
+                        "startColumns": "4,4,-1,-1,-1",
+                        "startOffsets": "286,202,-1,-1,-1",
+                        "endLines": "11,8,-1,-1,-1",
+                        "endColumns": "19,19,-1,-1,-1",
+                        "endOffsets": "370,281,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,5,10,11,12",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,144,342,395,436",
+                        "endLines": "4,7,10,11,12",
+                        "endColumns": "19,19,52,40,51",
+                        "endOffsets": "139,223,390,431,483"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\erago\\Desktop\\blefun-androidthings-master\\blefun-androidthings-master\\BLE_Example-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "228,286",
+                        "endColumns": "57,55",
+                        "endOffsets": "281,337"
+                    }
+                }
+            ]
+        }
+    ]
+}

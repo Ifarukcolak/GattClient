@@ -1,0 +1,4 @@
+#Sat Oct 06 22:49:53 EEST 2018
+base.0=C\:\\Users\\erago\\Desktop\\blefun-androidthings-master\\blefun-androidthings-master\\BLE_Example-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

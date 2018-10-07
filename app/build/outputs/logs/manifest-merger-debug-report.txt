@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\erago\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\a0017c5ac1934eda1ef98845f1398d49\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\erago\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\a0017c5ac1934eda1ef98845f1398d49\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\erago\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\a0017c5ac1934eda1ef98845f1398d49\AndroidManifest.xml:21:5-23:54
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.1.1] C:\Users\erago\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\a0017c5ac1934eda1ef98845f1398d49\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:11:5-13:35
+	android:required
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:13:9-32
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:12:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:16:22-71
+application
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:20:5-45:19
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\erago\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\a0017c5ac1934eda1ef98845f1398d49\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] C:\Users\erago\.gradle\caches\transforms-1\files-1.1\support-v4-24.1.1.aar\a0017c5ac1934eda1ef98845f1398d49\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.seeedstudio.BLE.MainActivity
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:25:9-32:20
+	android:label
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:26:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.seeedstudio.BLE.Control
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:33:19-69
+activity#com.example.seeedstudio.BLE.Device
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:theme
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:36:13-62
+service#com.example.seeedstudio.BLE.BluetoothLeService
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:40:9-42:38
+	android:enabled
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:42:13-35
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:41:13-74
+service#com.example.seeedstudio.BLE.MyServices
+ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:43:9-44:46
+	android:enabled
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:44:13-35
+	android:name
+		ADDED from C:\Users\erago\Desktop\blefun-androidthings-master\blefun-androidthings-master\BLE_Example-master\app\src\main\AndroidManifest.xml:43:18-44
